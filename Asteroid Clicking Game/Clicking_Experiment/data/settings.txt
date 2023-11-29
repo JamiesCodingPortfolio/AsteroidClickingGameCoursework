@@ -1,0 +1,8 @@
+//X Axis Resolution
+1920
+//Y Axis Resolution
+1080
+//Fullscreen (1 Enables fullscreen, 0 disables fullscreen)
+1
+//Framerate (Set to any whole number)
+144

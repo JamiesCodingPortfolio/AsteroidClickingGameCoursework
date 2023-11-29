@@ -1,0 +1,5 @@
+Available Resolutions:
+1920
+1080
+1600
+900
